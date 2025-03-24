@@ -1,0 +1,2 @@
+# latihan
+setting git up
